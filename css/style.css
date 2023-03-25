@@ -26,7 +26,7 @@ section {
   display: inline-block;
   margin-top: 1rem;
   padding: 1rem 3rem;
-  background: #e9edfb;
+  background: #d7ffb6;
   color: #000000;
   cursor: pointer;
   border-radius: .5rem;
@@ -352,7 +352,7 @@ section {
   text-align: center;
   padding: 2rem;
   border-radius: 1rem;
-  background: #f5f5f5;
+  /*background: #f5f5f5; */
   margin-bottom: 2rem;
 }
 
@@ -362,7 +362,7 @@ section {
   line-height: 6.5rem;
   font-size: 2.5rem;
   color: saddlebrown;
-  background: #e9edfb;
+  background: #cffbc0;
   border-radius: 50%;
   text-align: center;
   margin-bottom: .5rem;
@@ -370,7 +370,7 @@ section {
 
 .contact .icons-container .icons h3 {
   font-size: 2rem;
-  color: #302851;
+  color: #2a5128;
   padding: .7rem 0;
 }
 
@@ -400,7 +400,7 @@ section {
 
 .contact .row form h3 {
   font-size: 2.5rem;
-  color: #302851;
+  color: #285134;
   margin-bottom: .5rem;
 }
 
@@ -428,9 +428,9 @@ section {
   border-radius: 1rem;
 }
 
-.footer {
-  background: #f5f5f5;
-}
+/*.footer {
+  background: #d9fd63;
+}*/
 
 .footer .box-container {
   display: -ms-grid;
