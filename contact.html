@@ -78,10 +78,18 @@
 
         <form action="">
             <h3>get in touch</h3>
-            <input type="text" placeholder="your name" class="box">
-            <input type="number" placeholder="your number" class="box">
-            <input type="email" placeholder="your email" class="box">
-            <textarea name="" placeholder="your message" id="" cols="30" rows="10"></textarea>
+            <div class="box">
+            <input type="text" placeholder class="box" required><span>User Name</span>
+            </div>
+            <div class="box">
+            <input type="number" placeholder="" class="box" required><span>Mobile Number</span>
+            </div>
+            <div class="box">
+            <input type="email" placeholder="" class="box" required><span>Email ID</span>
+            </div>
+            <div class="box">
+            <textarea name="" placeholder="" id="" cols="30" rows="10" class="box" required></textarea><span>Message</span>
+            </div>
             <input type="submit" value="send message" class="btn">
         </form>
 
