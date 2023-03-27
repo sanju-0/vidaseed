@@ -420,6 +420,24 @@ section {
   resize: none;
 }
 
+.contact .row .box span{
+  position: relative;
+  left: 0;
+  padding: 1rem;
+
+  pointer-events: none;
+  font-size: 1em;
+  color: #d33b3b;
+  text-transform: uppercase;
+  transition: 0.5s;
+}
+.contact .row .box:valid ~ span,
+.contact .row .box:focus ~ span{
+  color: #063d17;
+  transform: translateX(10px) translateY(-45px);
+  letter-spacing: 0.2em;
+}
+
 .contact .row .map {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
