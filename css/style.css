@@ -82,13 +82,13 @@ section {
       -ms-flex-pack: justify;
           justify-content: space-between;
   padding: 0 9%;
-  background: saddlebrown;
+  background: transparent;
 }
 
 .header .logo {
   font-size: 2.5rem;
   font-weight: bolder;
-  color: #fff;
+  color: black;
 }
 
 .header .logo i {
@@ -112,7 +112,7 @@ section {
   padding: 2rem;
   display: block;
   font-size: 1.7rem;
-  color: #fff;
+  color: black;
 }
 
 .header .navbar ul li a:hover {
@@ -133,7 +133,7 @@ section {
 
 #menu-btn {
   cursor: pointer;
-  color: #fff;
+  color: #0d0d0d;
   font-size: 2.5rem;
   display: none;
 }
@@ -233,7 +233,7 @@ section {
 
 .team .row .card .info span{
   font-size: 1.8rem;
-  color:var(--color);
+  color: white;
 }
 
 .team .row .card .info .icons a{
@@ -447,8 +447,8 @@ section {
 }
 
 /*.footer {
-  background: #d9fd63;
-}*/
+  background: ;
+} */
 
 .footer .box-container {
   display: -ms-grid;
