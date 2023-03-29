@@ -6,7 +6,7 @@ We Offer You A Variety Of Services On The Vidaseed Platform That May Be Utilised
 ## Steps to run locally
 1. Clone the repository or download the zip file.
 2. Extract all the files.
-3. Deploy the index.html file on github or run it locally through your browser.
+3. Deploy the home.html file on github or run it locally through your browser.
 4. Deployment of crop recommendation is done through streamlit.
 
 ## Technologies
