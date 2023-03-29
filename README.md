@@ -9,4 +9,5 @@ We Offer You A Variety Of Services On The Vidaseed Platform That May Be Utilised
 3. Deploy the index.html file on github or run it locally through your browser.
 4. Deployment of crop recommendation is done through streamlit.
 
-###Technologies
+##Technologies
+
