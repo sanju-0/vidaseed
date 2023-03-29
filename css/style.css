@@ -446,9 +446,13 @@ section {
   border-radius: 1rem;
 }
 
-/*.footer {
-  background: ;
-} */
+.footer {
+  background: url(/images/footer.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;;
+  height: 100%;
+} 
 
 .footer .box-container {
   display: -ms-grid;
@@ -468,7 +472,7 @@ section {
   display: block;
   font-size: 1.4rem;
   padding: 1rem 0;
-  color: #666;
+  color: #000000;
 }
 
 .footer .box-container .box a:hover {
